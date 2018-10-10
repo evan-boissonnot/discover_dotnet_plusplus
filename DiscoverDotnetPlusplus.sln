@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp6", "ConsoleApp6\ConsoleApp6.csproj", "{3F9F29E1-3800-4E60-BE1C-DE9377709419}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExemplePOOEtInterface", "ExemplePOOEtInterface\ExemplePOOEtInterface.csproj", "{3F9F29E1-3800-4E60-BE1C-DE9377709419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscoverYield", "DiscoverYield\DiscoverYield.csproj", "{B092454F-2FC1-4A20-8AED-0F6CB502041C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscoverParallele", "DiscoverParallele\DiscoverParallele.csproj", "{68AAD1BE-8746-4D9A-B0F8-66696D6E6F03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiscoverTasks", "DiscoverTasks\DiscoverTasks.csproj", "{30D73C01-DDAF-4F63-9523-CF562AE2F011}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{3F9F29E1-3800-4E60-BE1C-DE9377709419}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F9F29E1-3800-4E60-BE1C-DE9377709419}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F9F29E1-3800-4E60-BE1C-DE9377709419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B092454F-2FC1-4A20-8AED-0F6CB502041C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B092454F-2FC1-4A20-8AED-0F6CB502041C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B092454F-2FC1-4A20-8AED-0F6CB502041C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B092454F-2FC1-4A20-8AED-0F6CB502041C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68AAD1BE-8746-4D9A-B0F8-66696D6E6F03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AAD1BE-8746-4D9A-B0F8-66696D6E6F03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AAD1BE-8746-4D9A-B0F8-66696D6E6F03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AAD1BE-8746-4D9A-B0F8-66696D6E6F03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D73C01-DDAF-4F63-9523-CF562AE2F011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D73C01-DDAF-4F63-9523-CF562AE2F011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D73C01-DDAF-4F63-9523-CF562AE2F011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D73C01-DDAF-4F63-9523-CF562AE2F011}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
